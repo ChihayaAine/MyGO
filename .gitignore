@@ -1,6 +1,6 @@
 __pycache__
-*ipynb
+ipynb
 .vscode
-*DS_Store*
+DS_Store
 .yarn
 Makefile
