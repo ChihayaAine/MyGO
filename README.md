@@ -21,7 +21,5 @@ The system is structured around four main agents: the Sub-Task Dependency Graph 
 The Sub-Task Dependency Graph Generator transforms complex tasks into structured sub-task graphs through three-phase processing: task decomposition, dependency modeling, and constraint integration.
 
 The workflow of Sub-Task Dependency Graph Generator is shown below:
-<p align="center">
-<img src="resource/fig2.jpg" alt="PPTEval Workflow" style="width:70%;"/>
-</p>
+![Graph Generation](resource/fig2.png)
 
